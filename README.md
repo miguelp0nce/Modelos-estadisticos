@@ -1,5 +1,5 @@
 # Modelos-estadisticos
-Este repositorio está dedicado al curso de Probabilidad y Estadística, donde exploraremos conceptos fundamentales sobre variables aleatorias, sus distribuciones, y métodos de simulación y estimación utilizando Python.
+Este repositorio está dedicado al curso de Probabilidad y Estadística, donde exploraré conceptos fundamentales sobre variables aleatorias, sus distribuciones, y métodos de simulación y estimación utilizando Python.
 
 ## Objetivos del curso.
 ### Variables Aleatorias Discretas
